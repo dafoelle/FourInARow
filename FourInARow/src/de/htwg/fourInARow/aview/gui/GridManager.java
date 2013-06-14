@@ -5,7 +5,6 @@ import java.awt.FlowLayout;
 
 import javax.swing.JButton;
 import javax.swing.JDialog;
-import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -16,8 +15,6 @@ import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.JLabel;
 import javax.swing.LayoutStyle.ComponentPlacement;
-
-import com.google.inject.Inject;
 
 import de.htwg.fourInARow.controller.IFourInARowController;
 
@@ -119,14 +116,15 @@ public class GridManager extends JDialog {
 		
 			try {
 				
-			int _width = Integer.parseInt(txtWidth.getText());
-			int _height = Integer.parseInt(txtHeight.getText());
+			int width = Integer.parseInt(txtWidth.getText());
+			int height = Integer.parseInt(txtHeight.getText());
 			
-			if(_width < 0 || _height < 0 || _width > 7 || _height > 15)
-				throw new Exception("Invalid values.");
+			if(width < 0 || height < 0 || width > 7 || height > 15) {
+				throw new RuntimeException("Invalid values.");
+			}
 			
-			controller.getPlayground().setWidth(_height);
-			controller.getPlayground().setHeight(_width);
+			controller.getPlayground().setWidth(height);
+			controller.getPlayground().setHeight(width);
 		
 			controller.setStatusMessage("Playground configuration changed.");
 			parent.dispose();

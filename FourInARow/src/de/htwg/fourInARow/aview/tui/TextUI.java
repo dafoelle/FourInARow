@@ -21,7 +21,7 @@ public class TextUI implements IObserver {
 	/**
 	 * Text wrapper
 	 */
-	String newLine = System.getProperty("line.separator");
+	private String newLine = System.getProperty("line.separator");
 	
 	/**
 	 * Used controller to manage the application.

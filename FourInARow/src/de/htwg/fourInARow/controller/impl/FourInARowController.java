@@ -13,7 +13,6 @@ import de.htwg.fourInARow.model.IPlayer;
 import de.htwg.fourInARow.model.IPlayerFactory;
 import de.htwg.fourInARow.model.IPlayground;
 import de.htwg.fourInARow.model.IPlaygroundFactory;
-import de.htwg.fourInARow.model.impl.Player;
 import de.htwg.util.Observer.Observable;
 
 /**
@@ -33,11 +32,6 @@ public class FourInARowController extends Observable implements IFourInARowContr
 	private Boolean turn = true;
 	private Boolean gameOver = false;
 	
-	/* Factories */
-	private IPlayerFactory playerOneFactory;
-	private IPlayerFactory playerTwoFactory;
-	private IPlaygroundFactory playgroundFactory;
-	
 	/* Methods */
 	
 	/**
@@ -47,10 +41,12 @@ public class FourInARowController extends Observable implements IFourInARowContr
 	 * @param player two to set.
 	 */
 	@Inject
-	public FourInARowController(IPlaygroundFactory _pg, IPlayerFactory _player1, IPlayerFactory _player2) {
-		this.playerOneFactory = _player1;
-		this.playerTwoFactory = _player2;
-		this.playgroundFactory = _pg;
+	public FourInARowController(IPlaygroundFactory pg, IPlayerFactory p1, IPlayerFactory p2) {
+		
+		/* Factories */
+		IPlayerFactory playerOneFactory = p1;
+		IPlayerFactory playerTwoFactory = p2;
+		IPlaygroundFactory playgroundFactory = pg;
 		
 		this.playground = playgroundFactory.create(6, 5);
 		this.player1 = playerOneFactory.create("Player1", IPlayer.mode.human, 'O');

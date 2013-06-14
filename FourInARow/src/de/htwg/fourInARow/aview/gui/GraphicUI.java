@@ -8,16 +8,12 @@ import javax.swing.JLabel;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
-import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
 import javax.swing.KeyStroke;
 
-import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.AdjustmentEvent;
-import java.awt.event.AdjustmentListener;
 import java.awt.event.KeyEvent;
 
 import de.htwg.fourInARow.controller.IFourInARowController;
@@ -31,7 +27,6 @@ import com.google.inject.Inject;
 public class GraphicUI extends JFrame implements IObserver {
 
 	private static final long serialVersionUID = 1L;
-	private JPanel contentPane;
 	private IFourInARowController controller;
 	private JPanel grid;
 	
@@ -50,7 +45,7 @@ public class GraphicUI extends JFrame implements IObserver {
 		setTitle("X in a Row");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(0, 0, 990, 520);
-		contentPane = new JPanel();
+		JPanel contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
@@ -60,51 +55,44 @@ public class GraphicUI extends JFrame implements IObserver {
 		JScrollPane scrollBar = new JScrollPane(grid);
 		scrollBar.setPreferredSize(new Dimension(1500, 1500));        
 		
-		GroupLayout gl_contentPane = new GroupLayout(contentPane);
-		gl_contentPane.setHorizontalGroup(
-			gl_contentPane.createParallelGroup(Alignment.LEADING)
-				.addGroup(gl_contentPane.createSequentialGroup()
+		GroupLayout glcontentPane = new GroupLayout(contentPane);
+		glcontentPane.setHorizontalGroup(
+			glcontentPane.createParallelGroup(Alignment.LEADING)
+				.addGroup(glcontentPane.createSequentialGroup()
 					.addGap(142)
 					.addComponent(scrollBar)
-					//.addComponent(scrollBar, GroupLayout.PREFERRED_SIZE, 489, GroupLayout.PREFERRED_SIZE)
 					.addContainerGap(143, Short.MAX_VALUE))
-				.addGroup(gl_contentPane.createSequentialGroup()
+				.addGroup(glcontentPane.createSequentialGroup()
 					.addContainerGap()
-					.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
+					.addGroup(glcontentPane.createParallelGroup(Alignment.LEADING)
 						.addComponent(lblTurn)
-						.addGroup(gl_contentPane.createSequentialGroup()
+						.addGroup(glcontentPane.createSequentialGroup()
 							.addComponent(lblStatus)
 							.addContainerGap(11, Short.MAX_VALUE))))
 		);
-		gl_contentPane.setVerticalGroup(
-				gl_contentPane.createParallelGroup(Alignment.LEADING)
-					.addGroup(gl_contentPane.createSequentialGroup()
+		glcontentPane.setVerticalGroup(
+				glcontentPane.createParallelGroup(Alignment.LEADING)
+					.addGroup(glcontentPane.createSequentialGroup()
 						.addContainerGap()
 						.addComponent(lblStatus)
 						.addPreferredGap(ComponentPlacement.RELATED)
 						.addComponent(lblTurn)
 						.addGap(47)
 						.addComponent(scrollBar)
-						//.addComponent(scrollBar, GroupLayout.PREFERRED_SIZE, 244, GroupLayout.PREFERRED_SIZE)
 						.addContainerGap(41, Short.MAX_VALUE))
 			);
 		
-		
-				
-		
-		//contentPane.add(scrollBar, BorderLayout.CENTER);
-	
-		contentPane.setLayout(gl_contentPane);
+		contentPane.setLayout(glcontentPane);
 		createMenu();	
 	}
 	
-	private void OpenPlayerConfiguration() {
+	private void openPlayerConfiguration() {
 		JDialog config = new ConfigurationManager(this, controller);
 		config.setVisible(true);
 		this.setEnabled(false);
 	}
 	
-	private void OpenPlaygroundConfiguration() {
+	private void openPlaygroundConfiguration() {
 		JDialog config = new GridManager(this, controller);
 		config.setVisible(true);
 		this.setEnabled(false);
@@ -125,7 +113,7 @@ public class GraphicUI extends JFrame implements IObserver {
         
         playerSettings.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent event) {
-            	OpenPlayerConfiguration();
+            	openPlayerConfiguration();
             }
         });
         
@@ -134,7 +122,7 @@ public class GraphicUI extends JFrame implements IObserver {
         
         playgroundSettings.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent event) {
-            	OpenPlaygroundConfiguration();
+            	openPlaygroundConfiguration();
             }
         });
         
