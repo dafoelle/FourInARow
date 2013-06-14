@@ -40,8 +40,8 @@ public class ConfigurationManager extends JDialog {
 	private JRadioButton rdbtnHuman;
 	private JRadioButton radioButton;
 	private JRadioButton rdbtnComputer;
-	private JComboBox<String> comboBox;
-	private JComboBox<String> comboBox2;
+	private JComboBox comboBox;
+	private JComboBox comboBox2;
 	
 	public ConfigurationManager(final JFrame parent, final IFourInARowController controller) {
 		this.controller = controller;
@@ -87,13 +87,13 @@ public class ConfigurationManager extends JDialog {
 		JLabel lblIdentifier = new JLabel("Identifier:");
 		
 		Vector<String> values = fillBox();
-		comboBox = new JComboBox<String>(values);
+		comboBox = new JComboBox(values);
 		
 		comboBox.setSelectedIndex(3);
 		
 		JLabel lblIndentifier = new JLabel("Indentifier:");
 		
-		comboBox2= new JComboBox<String>(values);
+		comboBox2= new JComboBox(values);
 		comboBox2.setSelectedIndex(4);
 		
 		JSeparator separator = new JSeparator();
