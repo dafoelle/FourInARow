@@ -985,3 +985,60 @@ INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui -
 Its Player2's turn.
 INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
 Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings

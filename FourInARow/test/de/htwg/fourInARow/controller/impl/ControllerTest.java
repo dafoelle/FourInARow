@@ -9,9 +9,7 @@ import de.htwg.fourInARow.controller.IFourInARowController;
 import de.htwg.fourInARow.model.ICell;
 import de.htwg.fourInARow.model.IPlayer;
 import de.htwg.fourInARow.model.IPlayground;
-import de.htwg.fourInARow.model.impl.Player;
 import de.htwg.fourInARow.model.impl.PlayerFactory;
-import de.htwg.fourInARow.model.impl.Playground;
 import de.htwg.fourInARow.model.impl.PlaygroundFactory;
 
 public class ControllerTest {
