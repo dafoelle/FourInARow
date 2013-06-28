@@ -1042,3 +1042,763 @@ INFO main de.htwg.fourInARow.aview.tui -
 Its Player2's turn.
 INFO main de.htwg.fourInARow.aview.tui - 
 Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | O | O |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | O | O |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | O | O |   |   |   |
++---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | O | O | O |   |   |
++---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | X |   |   |   |   |
++---+---+---+---+---+---+
+|   | O | O | O |   | X |
++---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   | X |   |   |
++---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | O |   | X |   | O |
++---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   | O |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   | O |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player2's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X | O |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   | X | O |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO main de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
++---+---+---+---+---+---+
+
+INFO main de.htwg.fourInARow.aview.tui - 
+Welcome to 4InARow!
+INFO main de.htwg.fourInARow.aview.tui - 
+Its Player1's turn.
+INFO main de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
++---+---+---+---+---+---+---+---+
+|   |   |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | A |   |   |   |
++---+---+---+---+---+---+---+---+
+|   | B |   |   | B |   | A |   |
++---+---+---+---+---+---+---+---+
+| B | B |   | B | A | A | A |   |
++---+---+---+---+---+---+---+---+
+| B | B | B | A | B | A | A |   |
++---+---+---+---+---+---+---+---+
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Game over. Player1 wins.
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+
+INFO AWT-EventQueue-0 de.htwg.fourInARow.aview.tui - 
+Please enter a command( q - quit, n - new, m - next Move, s - Settings
